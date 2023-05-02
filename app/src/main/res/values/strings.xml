@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Exam FDJ</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="searchLeagues">Search leagues</string>
+    <string name="retry">Retry</string>
+    <string name="errorMessage">An error occurred, please try again later.</string>
+    <string name="emptyLeaguesMessage">No league found!</string>
+    <string name="emptyTeamsMessage">No team found for the selected league!</string>
+    <string name="close">Close</string>
+    <string name="selectLeague">Start by selecting a league.</string>
+</resources>
